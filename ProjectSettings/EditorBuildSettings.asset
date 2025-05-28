@@ -38,4 +38,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/NewScene.unity
     guid: 590590a0d3cc83c40a9953eaf19d3f65
+  - enabled: 1
+    path: Assets/Oni_cave.unity
+    guid: 1d1b9789ebc04ef4ca90970932686a33
   m_configObjects: {}

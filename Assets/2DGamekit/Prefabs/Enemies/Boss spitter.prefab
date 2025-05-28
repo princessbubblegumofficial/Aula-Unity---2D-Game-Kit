@@ -193,7 +193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1506f7b67235554cb42519c257da979, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 1
+  damage: 4
   offset: {x: 0.0025892258, y: 0.40352154}
   size: {x: 0.9466696, y: 0.8260269}
   offsetBasedOnSpriteFacing: 0
